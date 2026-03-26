@@ -4,20 +4,11 @@
 **`Futuro desenvolvedor fullstack`**
 > Me chamo Olivier.
 > Atualmente estou cursando Técnico em informática e com o objetivo de futuramente cursar Ciêcias da computação.
+
 <a href="https://github.com/OlivrDev0?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/OlivrDev0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/OlivrDev0?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total star rating on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/OlivrDev0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OlivrDev0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/OlivrDev0?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OlivrDev0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 ## _Interesses_ 
 - Programação.
