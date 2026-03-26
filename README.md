@@ -1,7 +1,7 @@
 <img src="https://64.media.tumblr.com/684c0d89bf899fd32d038df4bcdb82ac/tumblr_ps45i6yJZB1ubrhic_1280.jpg" alt="Texto alternativo" width="1015" height="250" />
 
 ## Bem vindos! ՞. .՞𐦯
-**`Futuro desenvolvedor fullStack`**
+**`Futuro desenvolvedor fullstack`**
 > Me chamo Olivier.
 > Atualmente estou cursando Técnico em informática. E pretendo futuramente ingressar em Ciêcias da computação.
 <a href="https://github.com/OlivrDev0?tab=followers">
