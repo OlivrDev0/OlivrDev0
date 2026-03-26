@@ -18,7 +18,7 @@
 - Videogames.
 
 ## Como entrar em contato comigo
-> Envie-me um e-mail: olivierbrondyrs@gmail.com
+> Envie-me um e-mail: xxx@gmail.com
 
 ## Linguagens e Tecnologias que estou aprendendo
 ![oi](https://custom-icon-badges.demolab.com/badge/-html-8cabc2?style=for-the-badge&logoColor=white&logo=html5)
