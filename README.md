@@ -6,7 +6,7 @@
 > Atualmente estou cursando Técnico em informática e com o objetivo de futuramente cursar Ciêcias da computação.
 
 <a href="https://github.com/OlivrDev0?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OlivrDev0?color=82b4d1&labelColor=82b4d1&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OlivrDev0?color=8cabc2&labelColor=8cabc2&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/OlivrDev0?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OlivrDev0?color=87ad96&style=for-the-badge&labelColor=87ad96&logo=star"/></a>
 
@@ -21,7 +21,7 @@
 > Envie-me um e-mail: olivierbrondyrs@gmail.com
 
 ## Linguagens e Tecnologias que estou aprendendo
-![oi](https://custom-icon-badges.demolab.com/badge/-html-82b4d1?style=for-the-badge&logoColor=white&logo=html5)
-![oi](https://custom-icon-badges.demolab.com/badge/-CSS-82d1a1?style=for-the-badge&logoColor=white&logo=css3)
-![oi](https://custom-icon-badges.demolab.com/badge/-Javascript-82b4d1?style=for-the-badge&logoColor=white&logo=javascript)
-![oi](https://custom-icon-badges.demolab.com/badge/-C-82d1a1?style=for-the-badge&logoColor=white&logo=c)
+![oi](https://custom-icon-badges.demolab.com/badge/-html-8cabc2?style=for-the-badge&logoColor=white&logo=html5)
+![oi](https://custom-icon-badges.demolab.com/badge/-CSS-87ad96?style=for-the-badge&logoColor=white&logo=css3)
+![oi](https://custom-icon-badges.demolab.com/badge/-Javascript-8cabc2?style=for-the-badge&logoColor=white&logo=javascript)
+![oi](https://custom-icon-badges.demolab.com/badge/-C-87ad96?style=for-the-badge&logoColor=white&logo=c)
