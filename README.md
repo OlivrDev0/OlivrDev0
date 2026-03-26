@@ -8,7 +8,7 @@
 <a href="https://github.com/OlivrDev0?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OlivrDev0?color=82b4d1&labelColor=82b4d1&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/OlivrDev0?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OlivrDev0?color=82d1a1&style=for-the-badge&labelColor=82d1a1&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OlivrDev0?color=87ad96&style=for-the-badge&labelColor=87ad96&logo=star"/></a>
 
 ## _Interesses_ 
 - Programação.
