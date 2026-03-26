@@ -3,7 +3,7 @@
 ## Bem vindos! ՞. .՞𐦯
 **`Futuro desenvolvedor fullstack`**
 > Me chamo Olivier.
-> Atualmente estou cursando Técnico em informática. E pretendo futuramente ingressar em Ciêcias da computação.
+> Atualmente estou cursando Técnico em informática e com o objetivo de futuramente cursar Ciêcias da computação.
 <a href="https://github.com/OlivrDev0?tab=followers">
         <img 
             alt="Followers" 
