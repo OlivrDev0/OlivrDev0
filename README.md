@@ -3,7 +3,7 @@
 
 ## Bem vindos! 𐔌՞. .՞𐦯
 
-> Meu nome é Jamilly. Atualmente estou cursando Técnico em Informática na UFSM.
+> Meu nome é Olivier. Atualmente estou cursando Técnico em Informática na UFSM.
 
 ### _Interesses_
 - Programação.
@@ -11,7 +11,6 @@
 - Produzir qualquer tipo de arte.
 - Livros.
 - Videogames.
-- 
 
 ## Como entrar em contato comigo ૮ ․ ․ ྀིა
-> Envie-me um e-mail: xxx@gmail.com
+> Envie-me um e-mail: olivierbrondyrs@gmail.com
