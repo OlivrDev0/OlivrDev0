@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**OlivrDev0/OlivrDev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![584412489191269362](https://github.com/user-attachments/assets/7b1898bf-6e0d-4bfb-b845-b58dc0332842)
 
-Here are some ideas to get you started:
+## Bem vindos! 𐔌՞. .՞𐦯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Meu nome é Jamilly. Atualmente estou cursando Técnico em Informática na UFSM.
+
+### _Interesses_
+- Programação.
+- Desenvolvimento de web.
+- Produzir qualquer tipo de arte.
+- Livros.
+- Videogames.
+- 
+
+## Como entrar em contato comigo ૮ ․ ․ ྀིა
+> Envie-me um e-mail: xxx@gmail.com
