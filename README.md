@@ -6,9 +6,9 @@
 > Atualmente estou cursando Técnico em informática e com o objetivo de futuramente cursar Ciêcias da computação.
 
 <a href="https://github.com/OlivrDev0?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OlivrDev0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OlivrDev0?color=82b4d1&labelColor=82b4d1&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/OlivrDev0?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OlivrDev0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OlivrDev0?color=82d1a1&style=for-the-badge&labelColor=82d1a1&logo=star"/></a>
 
 ## _Interesses_ 
 - Programação.
@@ -21,35 +21,7 @@
 > Envie-me um e-mail: olivierbrondyrs@gmail.com
 
 ## Linguagens e Tecnologias que estou aprendendo
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
-/>
+![oi](https://custom-icon-badges.demolab.com/badge/-html-82b4d1?style=for-the-badge&logoColor=white&logo=html5)
+![oi](https://custom-icon-badges.demolab.com/badge/-CSS-82d1a1?style=for-the-badge&logoColor=white&logo=css3)
+![oi](https://custom-icon-badges.demolab.com/badge/-Javascript-82b4d1?style=for-the-badge&logoColor=white&logo=javascript)
+![oi](https://custom-icon-badges.demolab.com/badge/-C-82d1a1?style=for-the-badge&logoColor=white&logo=c)
